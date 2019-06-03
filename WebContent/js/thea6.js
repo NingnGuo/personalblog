@@ -1,0 +1,1 @@
+document.write("<a href='/about/' target=_blank><img src='images/avatar.jpg' border=0 width='30' height='30' alt=''></a>");
